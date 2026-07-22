@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Fahad%20Faisal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Python%20%7C%20JavaScript&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Fahad%20Faisal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=18"/>
 
 </div>
 
@@ -8,22 +8,23 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Fahad+👋;Full+Stack+Developer;Python+%26+FastAPI+Enthusiast;Building+cool+things+one+commit+at+a+time+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Fahad+👋;Full+Stack+Developer;Python+%26+FastAPI+Enthusiast;Cybersecurity+Enthusiast+🔐;CTF+Player+%26+Security+Researcher;Building+cool+things+one+commit+at+a+time+🚀)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑💻 About Me
 
 ```python
 class FahadFaisal:
     name       = "Muhammad Fahad Faisal"
-    role       = "Full Stack Developer"
-    languages  = ["Python", "JavaScript", "HTML", "CSS"]
+    role       = "Full Stack Developer & Cybersecurity Enthusiast"
+    languages  = ["Python", "JavaScript", "HTML", "CSS", "Bash"]
     frameworks = ["FastAPI", "Jinja2", "Luxon"]
-    interests  = ["Web Development", "Open Source", "UI/UX"]
-    currently  = "Building awesome projects 🚀"
+    interests  = ["Web Development", "Cybersecurity", "Ethical Hacking", "CTF", "UI/UX"]
+    currently  = "Building awesome projects & learning cybersecurity 🔐🚀"
+    learning   = ["Penetration Testing", "Network Security", "Web App Security"]
 
     def say_hi(self):
         print("Thanks for visiting my profile! Let's build something great together.")
@@ -38,11 +39,23 @@ me.say_hi()
 
 <div align="center">
 
+### 💻 Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### 🔐 Cybersecurity
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Metasploit](https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logoColor=white)
+
+### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -55,10 +68,18 @@ me.say_hi()
 
 <div align="center">
 
+### 🌐 Web Development
 | Project | Description | Tech | Live |
 |---------|-------------|------|------|
 | ⚡ [Unit Converter](https://github.com/MFahadFaisal/unit-converter) | Convert length, weight & temperature units with a modern 3D UI | Python, FastAPI, Jinja2 | [🌍 Live](https://unit-converter.onrender.com) |
 | 🎂 [Age Calculator](https://github.com/MFahadFaisal/age-calculator) | Calculate your exact age in years, months & days | HTML, CSS, JS, Luxon | [🌍 Live](https://MFahadFaisal.github.io/age-calculator) |
+
+### 🔐 Cybersecurity
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🔍 Network Scanner | Scan and enumerate network hosts and open ports | Python, Nmap |
+| 🛡️ Password Analyzer | Analyze password strength and detect weak patterns | Python |
+| 🕵️ CTF Writeups | Collection of CTF challenge solutions and writeups | Markdown |
 
 </div>
 
