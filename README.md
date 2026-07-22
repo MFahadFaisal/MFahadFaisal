@@ -20,11 +20,11 @@
 class FahadFaisal:
     name       = "Muhammad Fahad Faisal"
     role       = "Full Stack Developer & Cybersecurity Enthusiast"
-    languages  = ["Python", "JavaScript", "HTML", "CSS", "Bash"]
+    languages  = ["Python", "JavaScript", "HTML", "CSS", "Bash", "C++"]
     frameworks = ["FastAPI", "Jinja2", "Luxon"]
-    interests  = ["Web Development", "Cybersecurity", "Ethical Hacking", "CTF", "UI/UX"]
+    interests  = ["Web Development", "Cybersecurity", "Ethical Hacking", "Fuzzing", "SAST", "CTF"]
     currently  = "Building awesome projects & learning cybersecurity 🔐🚀"
-    learning   = ["Penetration Testing", "Network Security", "Web App Security"]
+    learning   = ["Penetration Testing", "Network Security", "Web App Security", "Fuzzing"]
 
     def say_hi(self):
         print("Thanks for visiting my profile! Let's build something great together.")
@@ -44,6 +44,7 @@ me.say_hi()
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
@@ -77,9 +78,8 @@ me.say_hi()
 ### 🔐 Cybersecurity
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🔍 Network Scanner | Scan and enumerate network hosts and open ports | Python, Nmap |
-| 🛡️ Password Analyzer | Analyze password strength and detect weak patterns | Python |
-| 🕵️ CTF Writeups | Collection of CTF challenge solutions and writeups | Markdown |
+| 🔍 [SAST Scanner](https://github.com/MFahadFaisal/sast-scanner) | Static Application Security Testing scanner to detect vulnerabilities in source code | Python |
+| 🧪 [cJSON Fuzz Harness](https://github.com/MFahadFaisal/cjson-fuzz-harness) | Fuzzing harness for the cJSON library to discover memory safety bugs | C++ |
 
 </div>
 
