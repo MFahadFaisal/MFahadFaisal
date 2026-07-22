@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Fahad%20Faisal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Fahad%20Faisal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Digital%20Forensics%20Student%20%7C%20Cybersecurity%20Enthusiast%20%7C%20CTF%20Player&descAlignY=55&descSize=18"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Fahad+👋;Full+Stack+Developer;Python+%26+FastAPI+Enthusiast;Cybersecurity+Enthusiast+🔐;CTF+Player+%26+Security+Researcher;Building+cool+things+one+commit+at+a+time+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Fahad+👋;Digital+Forensics+Engineering+Student;Cybersecurity+Enthusiast+🔐;CTF+Player+%26+Ethical+Hacker;Building+the+future+of+cyber+defense+🛡️;Turning+digital+chaos+into+evidence+🔍)](https://git.io/typing-svg)
 
 </div>
 
@@ -31,9 +31,10 @@
 └─$ cat profile.txt
 
   [*] Name     : Muhammad Fahad Faisal
-  [*] Role     : Full Stack Developer & Cybersecurity Enthusiast
+  [*] Role     : Digital Forensics Engineering Student
+  [*] Focus    : Cybersecurity | Digital Forensics | Ethical Hacking
   [*] Location : Pakistan 🇵🇰
-  [*] Status   : Hacking the planet... 🌍
+  [*] Status   : ⚡ Digital Forensics Eng. Student • Cybersecurity Enthusiast • CTF Player • Building the future of cyber defense 🛡️
 
 ┌──(MFahadFaisal㉿kali)-[~]
 └─$ cat skills.txt
