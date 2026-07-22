@@ -85,34 +85,6 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MFahadFaisal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=030712&title_color=7c3aed&icon_color=06b6d4&text_color=ffffff"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFahadFaisal&layout=compact&theme=tokyonight&hide_border=true&bg_color=030712&title_color=7c3aed&text_color=ffffff"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MFahadFaisal&theme=tokyonight&hide_border=true&background=030712&ring=7c3aed&fire=06b6d4&currStreakLabel=ffffff)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=MFahadFaisal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
