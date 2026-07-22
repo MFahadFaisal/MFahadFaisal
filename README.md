@@ -115,6 +115,7 @@
 |---------|-------------|------|
 | 🔍 [SAST Scanner](https://github.com/MFahadFaisal/sast-scanner) | Static Application Security Testing scanner to detect vulnerabilities in source code | Python |
 | 🧪 [cJSON Fuzz Harness](https://github.com/MFahadFaisal/cjson-fuzz-harness) | Fuzzing harness for the cJSON library to discover memory safety bugs | C++ |
+| 🔍 [File Metadata Analyzer](https://github.com/MFahadFaisal/file-metadata-analyzer) | Extract hidden metadata from images, PDFs, docs & audio files | Python, FastAPI, Pillow |
 
 </div>
 
