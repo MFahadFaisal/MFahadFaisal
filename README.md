@@ -16,47 +16,56 @@
 
 ## 🧑💻 About Me
 
-```bash
-┌──(MFahadFaisal㉿kali)-[~]
-└─$ whoami
+<div align="center">
 
-  ███╗   ███╗███████╗ █████╗ ██╗  ██╗ █████╗ ██████╗
-  ████╗ ████║██╔════╝██╔══██╗██║  ██║██╔══██╗██╔══██╗
-  ██╔████╔██║█████╗  ███████║███████║███████║██║  ██║
-  ██║╚██╔╝██║██╔══╝  ██╔══██║██╔══██║██╔══██║██║  ██║
-  ██║ ╚═╝ ██║██║     ██║  ██║██║  ██║██║  ██║██████╔╝
-  ╚═╝     ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝
+![terminal](https://img.shields.io/badge/KALI%20LINUX%20TERMINAL-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-┌──(MFahadFaisal㉿kali)-[~]
-└─$ cat profile.txt
+</div>
 
-  [*] Name     : Muhammad Fahad Faisal
-  [*] Role     : Digital Forensics Engineering Student
-  [*] Focus    : Cybersecurity | Digital Forensics | Ethical Hacking
-  [*] Location : Pakistan 🇵🇰
-  [*] Status   : ⚡ Digital Forensics Eng. Student • Cybersecurity Enthusiast • CTF Player • Building the future of cyber defense 🛡️
+```diff
+@@  ┌──(MFahadFaisal㉿kali)-[~]  @@
+@@  └─$ whoami                    @@
 
-┌──(MFahadFaisal㉿kali)-[~]
-└─$ cat skills.txt
++  ███╗   ███╗███████╗ █████╗ ██╗  ██╗ █████╗ ██████╗
++  ████╗ ████║██╔════╝██╔══██╗██║  ██║██╔══██╗██╔══██╗
++  ██╔████╔██║█████╗  ███████║███████║███████║██║  ██║
++  ██║╚██╔╝██║██╔══╝  ██╔══██║██╔══██║██╔══██║██║  ██║
++  ██║ ╚═╝ ██║██║     ██║  ██║██║  ██║██║  ██║██████╔╝
++  ╚═╝     ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝
 
-  [+] Languages  : Python | JavaScript | HTML | CSS | Bash | C++
-  [+] Frameworks : FastAPI | Jinja2 | Luxon
-  [+] Security   : Penetration Testing | Fuzzing | SAST | CTF
-  [+] Tools      : Kali Linux | Burp Suite | Nmap | Wireshark | Metasploit
+@@  ┌──(MFahadFaisal㉿kali)-[~]  @@
+@@  └─$ cat profile.txt           @@
 
-┌──(MFahadFaisal㉿kali)-[~]
-└─$ cat interests.txt
++  [*] Name     : Muhammad Fahad Faisal
++  [*] Role     : Digital Forensics Engineering Student
++  [*] Focus    : Cybersecurity | Digital Forensics | Ethical Hacking
++  [*] Location : Pakistan 🇵🇰
+-  [!] Status   : Currently investigating digital evidence & building cyber defense tools 🛡️
 
-  [>] Web Development      ████████████████████  100%
-  [>] Ethical Hacking      ██████████████████░░   90%
-  [>] Penetration Testing  ████████████████░░░░   80%
-  [>] CTF Challenges       ███████████████░░░░░   75%
-  [>] Fuzzing & SAST       ██████████████░░░░░░   70%
+@@  ┌──(MFahadFaisal㉿kali)-[~]  @@
+@@  └─$ cat skills.txt            @@
 
-┌──(MFahadFaisal㉿kali)-[~]
-└─$ echo "Thanks for visiting! Let's hack something great together. 🔐"
++  [+] Languages  : Python | JavaScript | HTML | CSS | Bash | C++
++  [+] Frameworks : FastAPI | Jinja2 | Luxon
++  [+] Security   : Digital Forensics | Penetration Testing | Fuzzing | SAST | CTF
++  [+] Tools      : Kali Linux | Autopsy | Burp Suite | Nmap | Wireshark | Metasploit
 
-  Thanks for visiting! Let's hack something great together. 🔐
+@@  ┌──(MFahadFaisal㉿kali)-[~]  @@
+@@  └─$ cat interests.txt         @@
+
++  [>] Digital Forensics     ████████████████████  100%
++  [>] Web Development       ████████████████████  100%
++  [>] Ethical Hacking       ██████████████████░░   90%
++  [>] Penetration Testing   ████████████████░░░░   80%
++  [>] CTF Challenges        ███████████████░░░░░   75%
++  [>] Fuzzing & SAST        ██████████████░░░░░░   70%
+
+@@  ┌──(MFahadFaisal㉿kali)-[~]  @@
+@@  └─$ echo $MESSAGE             @@
+
++  ⚡ Digital Forensics Eng. Student • Cybersecurity Enthusiast
++  CTF Player • Building the future of cyber defense 🛡️
++  "The quieter you become, the more you are able to hear" 🔐
 ```
 
 ---
