@@ -16,21 +16,46 @@
 
 ## 🧑💻 About Me
 
-```python
-class FahadFaisal:
-    name       = "Muhammad Fahad Faisal"
-    role       = "Full Stack Developer & Cybersecurity Enthusiast"
-    languages  = ["Python", "JavaScript", "HTML", "CSS", "Bash", "C++"]
-    frameworks = ["FastAPI", "Jinja2", "Luxon"]
-    interests  = ["Web Development", "Cybersecurity", "Ethical Hacking", "Fuzzing", "SAST", "CTF"]
-    currently  = "Building awesome projects & learning cybersecurity 🔐🚀"
-    learning   = ["Penetration Testing", "Network Security", "Web App Security", "Fuzzing"]
+```bash
+┌──(MFahadFaisal㉿kali)-[~]
+└─$ whoami
 
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something great together.")
+  ███╗   ███╗███████╗ █████╗ ██╗  ██╗ █████╗ ██████╗
+  ████╗ ████║██╔════╝██╔══██╗██║  ██║██╔══██╗██╔══██╗
+  ██╔████╔██║█████╗  ███████║███████║███████║██║  ██║
+  ██║╚██╔╝██║██╔══╝  ██╔══██║██╔══██║██╔══██║██║  ██║
+  ██║ ╚═╝ ██║██║     ██║  ██║██║  ██║██║  ██║██████╔╝
+  ╚═╝     ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝
 
-me = FahadFaisal()
-me.say_hi()
+┌──(MFahadFaisal㉿kali)-[~]
+└─$ cat profile.txt
+
+  [*] Name     : Muhammad Fahad Faisal
+  [*] Role     : Full Stack Developer & Cybersecurity Enthusiast
+  [*] Location : Pakistan 🇵🇰
+  [*] Status   : Hacking the planet... 🌍
+
+┌──(MFahadFaisal㉿kali)-[~]
+└─$ cat skills.txt
+
+  [+] Languages  : Python | JavaScript | HTML | CSS | Bash | C++
+  [+] Frameworks : FastAPI | Jinja2 | Luxon
+  [+] Security   : Penetration Testing | Fuzzing | SAST | CTF
+  [+] Tools      : Kali Linux | Burp Suite | Nmap | Wireshark | Metasploit
+
+┌──(MFahadFaisal㉿kali)-[~]
+└─$ cat interests.txt
+
+  [>] Web Development      ████████████████████  100%
+  [>] Ethical Hacking      ██████████████████░░   90%
+  [>] Penetration Testing  ████████████████░░░░   80%
+  [>] CTF Challenges       ███████████████░░░░░   75%
+  [>] Fuzzing & SAST       ██████████████░░░░░░   70%
+
+┌──(MFahadFaisal㉿kali)-[~]
+└─$ echo "Thanks for visiting! Let's hack something great together. 🔐"
+
+  Thanks for visiting! Let's hack something great together. 🔐
 ```
 
 ---
